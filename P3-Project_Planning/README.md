@@ -10,7 +10,7 @@ For this assignment, you'll create some initial plans for your project.
 
 - [Employee Log In](https://github.com/tennilleterry/liftoff-assignments/blob/master/P3-Project_Planning/LoginView.pdf)
 - [Employee Schedule](https://github.com/tennilleterry/liftoff-assignments/blob/master/P3-Project_Planning/scheduleview.pdf)
-- [Employee Comments](https://github.com/tennilleterry/liftoff-assignments/blob/master/P3-Project_Planning/CommentsView.pdf)
+- [Comments Page](https://github.com/tennilleterry/liftoff-assignments/blob/master/P3-Project_Planning/CommentsView.pdf)
 
 ### Project Tracker
 
