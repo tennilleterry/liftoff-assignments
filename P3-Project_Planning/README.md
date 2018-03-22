@@ -8,8 +8,10 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+- [Employee Log In](https://github.com/tennilleterry/liftoff-assignments/blob/master/P3-Project_Planning/LoginView.pdf)
+- [Employee Schedule](https://github.com/tennilleterry/liftoff-assignments/blob/master/P3-Project_Planning/scheduleview.pdf)
+- [Employee Comments](https://github.com/tennilleterry/liftoff-assignments/blob/master/P3-Project_Planning/CommentsView.pdf)
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+- [Trello - Employee Schedule](https://trello.com/b/zUCQh2CH/employee-schedule)
