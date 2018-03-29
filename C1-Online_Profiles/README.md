@@ -13,4 +13,4 @@ https://www.github.com/tennilleterry
 https://www.linkedin.com/in/tennille-terry-6387b5160/
 
 ### Resume
--[Tennille Terry Resume](https://github.com/tennilleterry/liftoff-assignments/blob/master/C1-Online_Profiles/Technical%20Resume%202018%20.pdf)
+- [Tennille Terry Resume](https://github.com/tennilleterry/liftoff-assignments/blob/master/C1-Online_Profiles/Technical%20Resume%202018%20.pdf)
