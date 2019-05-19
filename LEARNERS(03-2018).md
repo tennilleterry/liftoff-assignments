@@ -1,0 +1,81 @@
+# Liftoff Learners
+
+## Section \#3: St. Louis (March 2018)
+
+- [Matthews, Paul (@pdmxdd)](https://www.github.com/pdmxdd/liftoff-assignments)
+- [Hawash, Eshe (@ehawash)](https://www.github.com/ehawash/liftoff-assignments)
+
+- [Garren, Sebastian (@sebastiangarren)](https://github.com/sebastiangarren/liftoff-assignments)
+- [Hougland, Kelly (@KelHougland)](https://github.com/KelHougland/liftoff-assignments)
+- Danielle Luley
+- Robert Batdorf
+- Shuangyu Zhang
+- Nicole Swanson
+- Suja Radhakrishnan
+- Jake Ulmer
+- Clayton Graves
+- [Kadingula, Soumya (@soumy1508)](https://github.com/soumy1508/liftoff-assignments)
+- Victoria Klein
+- Joseph Boria
+- [Ayers, Oliver (@orphanedcouplet)](https://github.com/orphanedcouplet/liftoff-assignments)
+- Kevin Shutt
+- Rama Devi Vanga
+- [Paulsen, William (@bpswim90)](https://www.github.com/bpswim90/liftoff-assignments)
+- Charles Robertson
+- David Cristancho
+- Jonathan Schobernd
+- [Rahman, Fahim (@fwr882)](https://github.com/fwr882/liftoff-assignments)
+- John Oconnor
+- E. Wilson
+- [Hopkins, Jesse (@JhopStl)](https://www.github.com/JhopStl/liftoff-assignments)
+- Steven Palmer
+- Tara Burke
+- Wade Stevens
+- [Williams, Jeffrey (@jwilliams32)](https://github.com/jwilliams32/liftoff-assignments)
+- Ramya Bellala
+- Adrianne Gore
+- Sharndeep Kaur chahal
+- Edward Coward
+- [Easley, Shelby (@shelbypeasley)](https://github.com/shelbypeasley/liftoff-assignments)
+- [Roman, Jacob (@JacobNRoman)](https://github.com/JacobNRoman/liftoff-assignments)
+- [Hanley, Sarah (@numbat77)](https://github.com/NUMBAT77/liftoff-assignments)
+- John Kelley
+- Elizabeth Walter
+- William Krings
+- Tawnya Bailey
+- Timothy Cliffe
+- Rakiyah Faatuono
+- Robert Spicer
+- Jared Mudd
+- Dena Shaw
+- Kyle Surber
+- Shweta Lakshmi
+- Todd Romkema
+- [Hadler,Geoffrey (@polarysekt)](https://www.github.com/polarysekt/liftoff-assignments)
+- John Ndungu
+- Rey Cabatingan
+- Jordan Fruin
+- Jacinda Santora
+- [Santora, Jacinda (@jacinda79)](https://github.com/jacinda79/liftoff-assignments)
+- [Gowen, Skye (@skyegowen)](https://github.com/skyegowen/liftoff-assignments)
+- [Powderly, Katherine (@KatherinePowderly)](https://github.com/KatherinePowderly/liftoff-assignments)
+- Shashwati Ghosh
+- [Roeseler, Faith (@Hraefn)](https://github.com/Hraefn/liftoff-assignments) 
+- Dorian Rozanski
+- Arturo Hurtado
+- Sebastian Garren
+- [Gutshall, Jessica (@jeskag)](https://github.com/jeskag/liftoff-assignments) 
+- Eleni Anas
+- Collin Elliott
+- Debjani Das
+- Thomas Ryan
+- Emily Reller
+- Kanika Dutta
+- Michelle Trusgnich
+- Patrick Smallwood
+- [Murugan, Indira (@IndiraMur)](https://github.com/IndiraMur/liftoff-assignments.git)
+- Shannon McCoy
+- [Tucker,Jessica (@eleanor09)](https://github.com/eleanor09/liftoff-assignments)
+- Neethu Joseph
+- [Terry, Tennille (@tennilleterry)](https://www.github.com/tennilleterry/liftoff-assignments)
+
