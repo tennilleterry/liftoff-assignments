@@ -11,15 +11,24 @@ My project will make it easier for employers to create employee schedules. It wi
 
 It will be useful because there will be no one scheduled a wrong time to work due to human error. The employee can change their availabilty numerous times before the deadline.
 
+<<<<<<< HEAD
 I thought of this because my manager continously screws up the schedule each pay period. And it causes conflict with employees other obligations.
 
 ### Features
 User Login
 - Each employee will have to login in order to update their availabilty
+=======
+I thought of this because my manager continuously screws up the schedule each pay period. And it causes conflict with employees other obligations.
+
+### Features
+User Login
+- Each employee will have to login in order to update their availability
+>>>>>>> 74e83ddb049fbc36ec1aeb2c60550b1ce953825e
 - The manager will login to periodically to assure employees get their times in before the new schedule needs to be generated
 Posts
 - Each user will be able to leave comments, concerns for the manager
 
+<<<<<<< HEAD
 ### Technologies
 Java
 Python
@@ -32,3 +41,17 @@ Mamp
 ### What I'll Have to Learn
 I will have to learn how to incorporate these different languages together.
 I also need to figure out what language would be the most efficient to use. I also need to learn how to make a great design for the ui.
+=======
+
+### Technologies
+Java
+MySQL
+API
+ThymeLeaf
+Css
+
+### What I'll Have to Learn
+I will have to learn how to incorporate an API.
+I also need to figure out what language would be the most efficient to use.
+I will need to learn Spring concepts
+>>>>>>> 74e83ddb049fbc36ec1aeb2c60550b1ce953825e

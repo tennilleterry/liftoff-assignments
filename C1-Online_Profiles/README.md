@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
 
 ### GitHub
-Provide a link to your GitHub account here.
+https://www.github.com/tennilleterry
 
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+https://www.linkedin.com/in/tennille-terry-6387b5160/
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo.
+- [Tennille Terry Resume](https://github.com/tennilleterry/liftoff-assignments/blob/master/C1-Online_Profiles/My2019Resume.pdf)
